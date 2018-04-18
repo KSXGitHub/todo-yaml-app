@@ -16,7 +16,7 @@
     "@types/express": "^4.11.1",
     "@types/js-yaml": "^3.10.1",
     "@types/next": "^2.4.7",
-    "@types/recompose": "^0.24.4",
+    "@types/recompose": "^0.26.0",
     "jest-cli": "^22.1.4",
     "standard": "^11.0.0",
     "x-iterable": "^6.0.1"
